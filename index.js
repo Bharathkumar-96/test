@@ -6,7 +6,7 @@ class Test extends React.Component{
             <div>
                 <h1>Test</h1>
                 <h2>DEMO TEST</h2>
-                <h3>NOT USED TEST</h3>
+               
             </div>
         )
     }
